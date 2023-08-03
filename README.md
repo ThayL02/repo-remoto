@@ -1,2 +1,2 @@
 # repo-remoto
-Descrição bug1
+Descrição bug
